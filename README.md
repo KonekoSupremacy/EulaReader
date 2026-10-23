@@ -15,6 +15,7 @@ Grab the APK from the [latest release](https://github.com/KonekoSupremacy/EulaRe
 - **arm64-v8a** fits almost every phone from the last several years
 - **armeabi-v7a** for older 32 bit phones
 - **x86_64** for emulators and Chromebooks
+- **universal** works everywhere but is much bigger
 
 The app checks this page for updates and tells you when a new version is out.
 
